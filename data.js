@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-entre-lycee",
-      "name": "Entrée lycee",
+      "name": "Entrée lycée",
       "levels": [
         {
           "tileSize": 256,
@@ -40,7 +40,7 @@ var APP_DATA = {
         {
           "yaw": 2.9554126214785317,
           "pitch": 0.03416067723914651,
-          "title": "Parking deux roue intérieur<br>",
+          "title": "Parking deux roues intérieur<br>",
           "text": "Text"
         },
         {
@@ -636,7 +636,7 @@ var APP_DATA = {
     },
     {
       "id": "12-allee-01",
-      "name": "Allee 01",
+      "name": "Allée 01",
       "levels": [
         {
           "tileSize": 256,
@@ -686,7 +686,7 @@ var APP_DATA = {
     },
     {
       "id": "13-allee-02",
-      "name": "Allee 02",
+      "name": "Allée 02",
       "levels": [
         {
           "tileSize": 256,
@@ -892,7 +892,7 @@ var APP_DATA = {
     },
     {
       "id": "17-entree-cdi",
-      "name": "Entree CDI",
+      "name": "Entrée CDI",
       "levels": [
         {
           "tileSize": 256,
@@ -986,7 +986,7 @@ var APP_DATA = {
     },
     {
       "id": "19-acces-infirmerie",
-      "name": "Acces infirmerie",
+      "name": "Accés infirmerie",
       "levels": [
         {
           "tileSize": 256,
@@ -1037,7 +1037,7 @@ var APP_DATA = {
     },
     {
       "id": "20-acces-restauration",
-      "name": "Acces restauration",
+      "name": "Accés restauration",
       "levels": [
         {
           "tileSize": 256,
@@ -1446,7 +1446,7 @@ var APP_DATA = {
     },
     {
       "id": "29-cafeteria",
-      "name": "Cafeteria",
+      "name": "Caféteria",
       "levels": [
         {
           "tileSize": 256,
